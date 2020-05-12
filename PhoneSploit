@@ -1,0 +1,13 @@
+root@kali:~# sudo bash
+root@kali:~# apt update
+root@kali:~# apt upgrade
+root@kali:~# apt install adb
+root@kali:~# apt install python-pip
+root@kali:~# pip install colorama
+root@kali:~# apt-get install
+root@kali:~# apt install git
+root@kali:~# cd /Desktop
+root@kali:~# git clone https://metacher/PhoneSploit.git
+root@kali:~# cd PhoneSploit
+root@kali:~# apt install python2
+root@kali:~# Python2 main.linux.py
